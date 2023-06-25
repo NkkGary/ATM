@@ -4,7 +4,7 @@
 public class CashDispenser 
 {
    // the default initial number of bills in the cash dispenser
-   private final static int INITIAL_COUNT = 1;
+   private final static int INITIAL_COUNT = 1000;
    private int count; // number of $20 bills remaining
    
    // no-argument CashDispenser constructor initializes count to default
